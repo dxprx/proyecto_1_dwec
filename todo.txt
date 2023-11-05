@@ -1,0 +1,19 @@
+TODO
+
+
+
+Nota:  Debe comentarse las líneas donde se muestre y aplique cada competencia para que se tenga en cuenta
+en la calificación. Es muy importante que el proyecto modifique dinámicamente el aspecto de nuestras
+páginas Web. (DOM)
+
+
+DONE
+9   Integración, presentación, funcionalidad, cohesión, … entre los elementos y las herramientas utilizadas
+-1   Tipo de datos (conversión), Operadores, Estructuras de control (condicionales y bucles)
+-3   Creación de objetos utilizando el constructor y/o utilizando la definición de clases soportada a partir de ecmascript 6. Debe implementarse herencia en los 2 casos
+-7   Almacenamiento (localstorage, sessiónstorage o cookies)
+-8   Comunicación asíncrona AJAX o fecth: JSON, XML SQL (xamp)
+4   Utilización y manipulación del DOM dinámicamente
+5   Utilización de distintos tipos de funciones y de funciones anónimas
+2   Gestión (propiedades y métodos) de los siguientes objetos predefinidos: Objeto windows, Objeto String, Objeto Math, Objeto Date, Objeto Array, Objeto RegExp,
+6   Formularios, validación, imágenes y eventos
